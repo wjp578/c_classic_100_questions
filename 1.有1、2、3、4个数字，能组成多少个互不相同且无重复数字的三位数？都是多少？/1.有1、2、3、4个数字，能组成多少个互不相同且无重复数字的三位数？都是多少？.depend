@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618076342 source:d:\study\c_classic_100_questions\1.有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618128660 source:d:\study\c_classic_100_questions\5.输入三个整数x,y,z，请把这三个数由小到大输出。\main.c
+	<stdio.h>
+	<stdlib.h>
+

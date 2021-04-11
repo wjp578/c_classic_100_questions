@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618131137 source:d:\study\c_classic_100_questions\6.用符号输出字母c的图案\main.c
+	<stdio.h>
+	<stdlib.h>
+
