@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618308620 source:d:\study\c_classic_100_questions\12.判断101到200之间的素数。\main.c
+	<stdio.h>
+	<stdlib.h>
+
