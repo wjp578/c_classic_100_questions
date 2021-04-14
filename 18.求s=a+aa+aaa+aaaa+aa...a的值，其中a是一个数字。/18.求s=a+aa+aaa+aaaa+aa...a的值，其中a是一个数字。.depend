@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618383346 source:d:\study\c_classic_100_questions\18.求s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。\main.c
+	<stdio.h>
+	<stdlib.h>
+

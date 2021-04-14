@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618381707 source:d:\study\c_classic_100_questions\17.输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数\main.c
+	<stdio.h>
+	<stdlib.h>
+

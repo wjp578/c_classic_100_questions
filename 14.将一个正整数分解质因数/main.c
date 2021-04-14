@@ -5,20 +5,22 @@
 
 int main()
 {
-    int x, n;
-    printf("请输入一个正整数\n");
-    scanf("%d",&x);
-    printf("%d=",x);
-    for(n=2;n<x;n++)
+    while(1)
     {
-        if(x%n==0)
+        int x, n;
+        scanf("%d",&x);
+        printf("%d=",x);
+        for(n=2;n<x;n++)
         {
-            printf("%d*",n)；
-            x=x/n;
-            n=1;
+            if(x%n==0)
+            {
+                printf("%d*",n);
+                x/=n;
+                n=1;
+            }
         }
+        printf("%d\n",x);
     }
-    printf("%d\n",x);
 
     return 0;
 }
