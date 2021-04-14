@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618403462 source:d:\study\c_classic_100_questions\22.两个乒乓球队进行比赛，各出三人。甲队为a,b,c三人，乙队为x,y,z三人\main.c
+	<stdio.h>
+	<stdlib.h>
+
