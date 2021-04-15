@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618487673 source:d:\study\c_classic_100_questions\30.一个5位数，判断它是不是回文数。\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618487045 source:d:\study\c_classic_100_questions\29.给一个不多于5位的正整数，要求：一、求它是几位数，二、逆序打印出各位数字。\main.c
+	<stdio.h>
+	<stdlib.h>
+
