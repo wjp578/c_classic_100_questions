@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618583715 source:d:\study\c_classic_100_questions\32.删除一个字符串中的指定字母，如：字符串 aca，删除其中的 a 字母。\main.c
+	<stdio.h>
+	<stdlib.h>
+
