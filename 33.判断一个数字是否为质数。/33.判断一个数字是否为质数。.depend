@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618660672 source:d:\study\c_classic_100_questions\33.判断一个数字是否为质数。\main.c
+	<stdio.h>
+	<stdlib.h>
+
