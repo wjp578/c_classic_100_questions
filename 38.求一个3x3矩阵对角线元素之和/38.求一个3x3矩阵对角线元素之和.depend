@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618745295 source:d:\study\c_classic_100_questions\38.求一个3x3矩阵对角线元素之和\main.c
+	<stdio.h>
+	<stdlib.h>
+
