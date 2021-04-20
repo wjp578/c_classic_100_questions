@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618937605 source:d:\study\c_classic_100_questions\67.输入数组，最大的与第一个元素交换，最小的与最后一个元素交换，输出数组。\main.c
+	<stdio.h>
+	<stdlib.h>
+

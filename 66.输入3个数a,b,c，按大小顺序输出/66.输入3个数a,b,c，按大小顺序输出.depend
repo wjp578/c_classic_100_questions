@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618932800 source:d:\study\c_classic_100_questions\66.输入3个数a,b,c，按大小顺序输出\main.c
+	<stdio.h>
+	<stdlib.h>
+
