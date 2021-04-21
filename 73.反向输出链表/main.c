@@ -44,6 +44,14 @@ void print_LNode(LinkNode head)
     printf("\n");
 }
 
+void reverse_print_LNode(LinkNode cur)
+{
+    if(cur->next != NULL)
+        reverse_print_LNode(cur->next);
+
+    printf("-->%c",cur->val);
+}
+
 void delete_LNode(LinkNode head)
 {
     LinkNode cur_next=NULL;
@@ -59,7 +67,8 @@ void delete_LNode(LinkNode head)
 int main()
 {
     LinkNode head=creat_LNode();//头指针，指向第一个元素节点
-    print_LNode(head);
+//    print_LNode(head);
+    reverse_print_LNode(head);
     delete_LNode(head);
 
     return 0;
