@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619010013 source:d:\study\c_classic_100_questions\71.编写input()和output()函数输入，输出5个学生的数据记录\main.c
+	<stdio.h>
+	<stdlib.h>
+
