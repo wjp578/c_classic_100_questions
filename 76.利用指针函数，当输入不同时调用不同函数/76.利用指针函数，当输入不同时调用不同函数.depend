@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619186482 source:d:\study\c_classic_100_questions\76.利用指针函数，当输入不同时调用不同函数\main.c
+	<stdio.h>
+	<stdlib.h>
+
