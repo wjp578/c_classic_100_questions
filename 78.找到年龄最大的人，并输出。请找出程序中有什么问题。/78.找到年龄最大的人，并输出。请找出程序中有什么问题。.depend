@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619189014 source:d:\study\c_classic_100_questions\78.找到年龄最大的人，并输出。请找出程序中有什么问题。\main.c
+	<stdio.h>
+	<stdlib.h>
+
