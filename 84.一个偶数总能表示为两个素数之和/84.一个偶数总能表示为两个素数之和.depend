@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619276549 source:d:\study\c_classic_100_questions\84.一个偶数总能表示为两个素数之和\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

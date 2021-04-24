@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619275292 source:d:\study\c_classic_100_questions\83.求0—7所能组成的奇数个数。\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619276776 source:d:\study\c_classic_100_questions\85.判断一个素数能被几个9整除\main.c
+	<stdio.h>
+	<stdlib.h>
+
