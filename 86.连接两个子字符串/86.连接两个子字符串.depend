@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619354796 source:d:\study\c_classic_100_questions\86.连接两个子字符串\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
