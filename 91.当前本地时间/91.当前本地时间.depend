@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619363363 source:d:\study\c_classic_100_questions\91.当前本地时间\main.c
+	<stdio.h>
+	<time.h>
+

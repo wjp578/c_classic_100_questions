@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619364880 source:d:\study\c_classic_100_questions\93.clock--计算程序执行时间\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

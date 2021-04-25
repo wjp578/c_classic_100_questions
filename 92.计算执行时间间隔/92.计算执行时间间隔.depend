@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619364597 source:d:\study\c_classic_100_questions\92.计算执行时间间隔\main.c
+	<stdio.h>
+	<time.h>
+
