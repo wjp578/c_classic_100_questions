@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619448584 source:d:\study\c_classic_100_questions\96.计算字符串中子串出现的次数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
