@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619752598 source:d:\study\c_classic_100_questions\100.有五个学生，每个学生有3门课的成绩\main.c
+	<stdio.h>
+	<stdlib.h>
+
